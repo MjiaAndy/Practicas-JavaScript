@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧉 Inventario Argentino 📦🇦🇷
 
 ¡Bienvenido al sistema más sencillo para manejar tu stock sin perder la cabeza ni la cuenta!
@@ -30,3 +31,7 @@ Te permite:
 1. Cloná este repo o descargá el `.zip`.
 2. Abrí el archivo `index.html` en tu navegador favorito.
 3. ¡Listo! Ya podés empezar a cargar tus **cachivaches** al inventario.
+=======
+# Practicas-JavaScript
+Implementacion de logica con javascript, html, css, sass, vite.
+>>>>>>> b8403d0eb8085ffb38a78fe57ec85fc608081bcc
